@@ -28,11 +28,74 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@keyframes fade {
+  0% {
+    opacity: 0;
   }
-  to {
-    transform: rotate(360deg);
+  100% {
+    opacity: 1;
   }
+}
+
+#wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #d6d8ef;
+}
+
+#quote-box {
+  width: 33%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: space-between;
+  padding: 2rem 4rem;
+  border-radius: 20px;
+  background-color: #594f84;
+  transition: height 4s ease-in-out;
+}
+
+#text {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #f3f3fa;
+  animation: fade 1s linear;
+}
+
+#author {
+  color: #e8eaf7;
+  animation: fade 1s linear;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  animation: fade 2s linear;
+}
+
+#new-quote {
+  background-color: #9089cb;
+  color: #e8eaf7;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+#tweet-quote {
+  color: #e8eaf7;
+  border: 1px solid #9089cb;
+  border-radius: 8px;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  text-decoration: none;
 }
