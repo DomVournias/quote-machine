@@ -6,7 +6,7 @@
 
 <a href="https://quote-machine-lac.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Live%20Demo-success" alt="Go to - Live Site" data-canonical-src="https://img.shields.io/badge/-Live%20Demo-success" style="max-width: 100%; height: 20px;"></a>
 
-This is a <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine" target="_blank" rel="noopener noreferrer">test</a> application for the FreeCodeCamp frontend developement libraries certification.
+This is a web application I built for <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine" target="_blank" rel="noopener noreferrer">FreeCodeCamp frontend developement libraries test</a>.
 
 ### Core Technologies
 <div>
