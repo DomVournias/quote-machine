@@ -8,6 +8,8 @@
 
 This is a web application I built for <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine" target="_blank" rel="noopener noreferrer">FreeCodeCamp frontend developement libraries test</a>.
 
+<img src="https://portal.domvournias.dev/wp-content/uploads/2023/02/Screenshot_27.png" />
+
 ### Core Technologies
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 40px; height: 40px; " alt="nextjs wordpress"/>
